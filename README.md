@@ -1,7 +1,11 @@
 # Robert K. Jenkins III
-* email: me@rkj3.com
-* city: Brooklyn, NY
-* github: dabobert
+
+|     &nbsp;      |    &nbsp;          
+| ------------- | -----|
+| email:     | [me@rkj3.com](mailto:me@rkj3.com)|
+| city:     |   Brooklyn, NY |
+| github:        |  dabobert |
+| linkedIn:        |  [https://www.linkedin.com/in/robertkjenkinsiii](https://www.linkedin.com/in/robertkjenkinsiii) |
 
 
 ## Background & Objective
@@ -11,6 +15,16 @@ fields including finance, human resources, music, design, academia, politics, an
 increasing revenue and building self-correcting data platforms.
 
 ## Recent Professional Experience
+
+<!--|     &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;     |    &nbsp;          
+| ------------- | -----:|
+| Vice President of Engineering      | August 2012 – Present |
+| col 2 is      |   $12 |
+| zebra stripes |    $1 |
+-->
+
+
+
 
 	Vice President of Engineering                      | August 2012 – Present
 	Designer Pages                                     | New York, NY
@@ -75,6 +89,16 @@ number kits from their own photos.
 	Master of Business Administration in Finance, 2010 | St. John’s University, Jamaica NY
 
 
+## Expertise
+
+|     &nbsp;      |    &nbsp;          
+| ------------- | -----|
+| Languages:     | Ruby/Ruby on Rails, JavaScript/jQuery, XQuery, PHP, Python, C/C++, LISP, .NET |
+| Databases:     |  MySQL, Postgres, BigQuery, Redis, Oracle, MongoDB |
+| Skills:        |  Application Development, Communication, Problem Solving, Opportunity Identification, Business Development, Financial Modeling, New Business Development, Industry Analysis and Idea Shepherding |
+
+
+
 ## Professional Activities
 * LookML Foundations Webinar, 2018
 * 48in48, Volunteer Coding Weekend for Local Nonprofits, 2018
@@ -83,5 +107,15 @@ number kits from their own photos.
 * EB-5 Innovation Summit Attendee, Focus on Financial Innovation with EB-5, 2016
 * TechSpo Attendee, 2017
 * Member and Supporter of Metropolitan Museum of Art, Rubin Museum of Art, Brooklyn Museum, Brooklyn Botanic Garden, American Museum of Natural History, Virginia Museum of Fine Arts and MASS MoCa
- 
- 
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+<center> 
+
+### Additional professional history and references available upon request.
+
+ </center>
