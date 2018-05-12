@@ -1,11 +1,23 @@
 # Robert K. Jenkins III
 
-|     &nbsp;      |    &nbsp;          
-| ------------- | -----|
-| email:     | [me@rkj3.com](mailto:me@rkj3.com)|
-| city:     |   Brooklyn, NY |
-| github:        |  dabobert |
-| linkedIn:        |  [https://www.linkedin.com/in/robertkjenkinsiii](https://www.linkedin.com/in/robertkjenkinsiii) |
+<table>
+  <tr>
+    <td>email: </td>
+    <td><a href="mailto:me@rkj3.com">me@rkj3.com</a></td>
+  </tr>
+  <tr>
+    <td>city:</td>
+    <td>Brooklyn, NY</td>
+  </tr>	
+  <tr>
+    <td>github:</td>
+    <td>dabobert</td>
+  </tr>
+  <tr>
+    <td>linkedIn:</td>
+    <td><a href="https://www.linkedin.com/in/robertkjenkinsiii">https://www.linkedin.com/in/robertkjenkinsiii</a></td>
+  </tr>		
+</table>
 
 
 ## Background & Objective
@@ -91,13 +103,20 @@ number kits from their own photos.
 
 ## Expertise
 
-|     &nbsp;      |    &nbsp;          
-| ------------- | -----|
-| Languages:     | Ruby/Ruby on Rails, JavaScript/jQuery, XQuery, PHP, Python, C/C++, LISP, .NET |
-| Databases:     |  MySQL, Postgres, BigQuery, Redis, Oracle, MongoDB |
-| Skills:        |  Application Development, Communication, Problem Solving, Opportunity Identification, Business Development, Financial Modeling, New Business Development, Industry Analysis and Idea Shepherding |
-
-
+<table>
+  <tr>
+    <td>Languages:</td>
+    <td>Ruby/Ruby on Rails, JavaScript/jQuery, XQuery, PHP, Python, C/C++, LISP, .NET</td>
+  </tr>	
+  <tr>
+    <td>Databases:</td>
+    <td>MySQL, Postgres, BigQuery, Redis, Oracle, MongoDB</td>
+  </tr>
+  <tr>
+    <td>Skills:</td>
+    <td>Application Development, Communication, Problem Solving, Opportunity Identification, Business Development, Financial Modeling, New Business Development, Industry Analysis and Idea Shepherding </td>
+  </tr>	
+</table>
 
 ## Professional Activities
 * LookML Foundations Webinar, 2018
