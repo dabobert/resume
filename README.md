@@ -73,6 +73,32 @@ needed.
 * Revitalized Magento E-commerce platform including business analysis, codebase enhancement, workflow improvement and
 integration architecture retooling across various stakeholders.
 
+&nbsp;
+
+    Web & Multimedia Specialist                        | February 2001 – March 2007
+	Instructional Technology: St. John’s University    | Jamaica NY
+
+
+* Created and lead the Web Development Team
+  * Trained the team and faculty in advanced HTML & Flash techniques o Lead development of education Flash web applications
+* Ran the on-campus Faculty Laptop Repair Shop which supported over 600 full time faculty, 1000 adjunct faculty and senior level administrators
+  * Troubleshot hardware & software issues
+  * Performed hardware basic repairs
+* Developed applets in Visual C++ to assist users with network credentials
+* Designed and implemented an enrollment database that tracked attendance and stipend disbursement for over 600 full time
+faculty, and senior level administrators
+
+&nbsp;
+
+    Web Programmer & Webmaster                         | June 2000 – February 2001
+    Council of Better Business Bureaus                 | Arlington VA
+ 
+* Programmed Intranet E-Commerce Site in Cold Fusion ecommerce
+* Implemented redesign of the Council of Better Business Bureaus website
+* Performed Daily Web Updates
+* Performed Webmaster Duties
+
+
 
 ## Entrepreneurial Experience
 
