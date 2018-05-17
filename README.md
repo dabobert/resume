@@ -68,7 +68,7 @@ needed.
   *  Collected and processed over 500GB of XML over a 2-year period.
   *  Application paid for itself over the first month of operation.
 * Re-architected consumer data storage warehouse into a successful multi-terabyte high availability application providing sales
-& marketing analysis of content partners data such as iTunes, Amazon & Spotify using PHP, Ruby on Rails and InfiniDB
+& marketing analysis of content partners data such as iTunes, Amazon & Spotify using PERL, Ruby on Rails and InfiniDB
 (MySQL compatible columnar data store) while managing the relationship of and between varied stakeholders.
 * Revitalized Magento E-commerce platform including business analysis, codebase enhancement, workflow improvement and
 integration architecture retooling across various stakeholders.
